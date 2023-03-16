@@ -10,7 +10,6 @@ Welcome to Lesson03's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-Hello World
 
 
 Indices and tables
