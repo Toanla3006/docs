@@ -1,18 +1,15 @@
-.. Lesson02 documentation master file, created by
-   sphinx-quickstart on Thu Mar  2 21:50:27 2023.
+.. Lesson04 documentation master file, created by
+   sphinx-quickstart on Thu Mar 16 23:39:48 2023.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Lesson02's documentation!
+Welcome to Lesson04's documentation!
 ====================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-Hello World
-===========
-   Testing auto reload page
 
 
 Indices and tables
